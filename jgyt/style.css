@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    display: flex;
+    justify-content: center;
+    height:100vh;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    gap: 16px ;
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.jgyt{
+    background-color: aliceblue;
+    width: 180px;
+    height: 180px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 12px #aaaa;
+
+}
